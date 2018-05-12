@@ -1,0 +1,29 @@
+_repo: Confessions-of-Boyhood_19418
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Albee, John
+    birthdate: 1833
+    deathdate: 1915
+    gutenberg_agent_id: '8658'
+    url: http://www.gutenberg.org/2009/agents/8658
+description: ''
+gutenberg_issued: '2006-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19418'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Worcester (Mass.)'
+- !lcc 'F001'
+- !lcsh 'Norwich (Conn.)'
+- !lcsh 'Albee, John, 1833-1915'
+- !lcsh 'Bellingham (Mass.)'
+title: Confessions of Boyhood
+url: http://www.gutenberg.org/ebooks/19418
