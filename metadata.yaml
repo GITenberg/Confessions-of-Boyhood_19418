@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8658'
     url: http://www.gutenberg.org/2009/agents/8658
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19418#Confessions-of-Boyhood
 gutenberg_issued: '2006-10-01'
 gutenberg_type: Text
 identifiers:
